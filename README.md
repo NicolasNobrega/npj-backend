@@ -1,6 +1,5 @@
 # Back-end GProJurídico
 
-git ls-files | xargs cat | wc -l
 
 Este repositório contém o back-end do sistema **GProJurídico**, um sistema **eficiente** para gestão e controle de **processos** e **atendimentos jurídicos**, destinado a uma organização que presta atendimentos às pessoas de baixa renda.
 
