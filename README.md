@@ -1,5 +1,7 @@
 # Back-end GProJurídico
 
+git ls-files | xargs cat | wc -l
+
 Este repositório contém o back-end do sistema **GProJurídico**, um sistema **eficiente** para gestão e controle de **processos** e **atendimentos jurídicos**, destinado a uma organização que presta atendimentos às pessoas de baixa renda.
 
 As tecnologias envolvidas são: **Java**, **Spring Boot**, **Spring Security**, **JWT** (JSON Web Token), **Firestore do GCP** (Google Cloud Platform), **Junit**, **Mockito** e **Swagger**.
